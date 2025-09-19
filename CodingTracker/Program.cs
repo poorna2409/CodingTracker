@@ -6,7 +6,7 @@ namespace CodingTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C# academy");
+            Console.WriteLine("Hello C# academy one more modification");
         }
     }
 }
