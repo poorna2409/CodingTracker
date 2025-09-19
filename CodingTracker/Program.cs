@@ -8,5 +8,11 @@ namespace CodingTracker
         {
             Console.WriteLine("Hello C# academy one more modification");
         }
+
+        void MyFirstMethod() { }
+
+        void MySecondMethod() { }
+
+        void MyThirdMethod() { }
     }
 }
